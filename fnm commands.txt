@@ -1,0 +1,11 @@
+fnm node version manager command lists
+
+1. fnm ls-remote 			=> List all the node versions available
+2. fnm list 				=> Shows only the installed versions in your system
+3. fnm install v22.11.0 		=> To install specific version
+4. fnm install --lts			=> To install lts version 
+5. fnm alias v22.11.0 Jod		=> To alias a version by name
+6. fnm default v22.11.0			=> To default a version
+7. fnm unalias Jod			=> To unalias a version
+
+-- ps: will update this file with more commands... 
